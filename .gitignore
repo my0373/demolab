@@ -13,6 +13,6 @@
 ## We probably don't want to be sharing our inventory and ansible config publically
 inventory
 ansible.cfg
-variables.yaml
+setup/variables.yaml
 
 
