@@ -14,5 +14,6 @@
 inventory
 ansible.cfg
 setup/variables.yaml
+setup/variables.yml
 
 
