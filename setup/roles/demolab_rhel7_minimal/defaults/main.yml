@@ -1,0 +1,5 @@
+---
+# defaults file for demolab_rhel7_minimal
+## The username and password for your RHN account
+rhsm_username: default_rhsm_username
+rhsm_password: default_rhsm_password

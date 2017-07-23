@@ -1,0 +1,6 @@
+---
+- name: Configure the target node into a known state.
+  hosts:  all
+  roles:
+    - { role: demolab_rhel7_minimal }
+    - { role: demolab_dhcpd}

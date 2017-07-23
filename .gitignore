@@ -1,4 +1,18 @@
+## IDE specific config
 .idea
+
+## Python files we don't need to store under VC
 *.pyc
+
+## Any keys
 *.key
-*.secret
+
+## Any swapfiles
+*.swp
+
+## We probably don't want to be sharing our inventory and ansible config publically
+inventory
+ansible.cfg
+variables.yaml
+
+

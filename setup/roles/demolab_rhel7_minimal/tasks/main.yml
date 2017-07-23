@@ -1,0 +1,7 @@
+---
+# tasks file for demolab_rhel7_minimal
+- name: Register host with redhat_subscription
+  redhat_subscription:
+
+
+
